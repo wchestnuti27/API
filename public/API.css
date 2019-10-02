@@ -1,0 +1,31 @@
+body {
+    background-image: url("../public/spirited-away-train-tracks.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    height: 525px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    height: 220px;
+}
+
+li {
+    color: black;
+    font-size: 25px;
+    font-weight: 10px;
+}
+
+#button {
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}      
